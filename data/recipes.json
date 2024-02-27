@@ -1,0 +1,157 @@
+{
+    "recipes": [
+        {
+            "name": "Chicken Tikka Masala",
+            "ingredients": [
+                "1 ½ pounds skinless, boneless chicken thighs",
+                "2 teaspoons garam masala",
+                "1 teaspoon ground coriander",
+                "1 teaspoon ground turmeric",
+                "2 tablespoons clarified butter"
+            ],
+            "instructions": [
+                "Gather all ingredients. Place chicken in a bowl. Drizzle vegetable oil over chicken; toss to coat.",
+                "Whisk together salt, garam masala, cumin, coriander, paprika, turmeric, black pepper, cayenne pepper, and cardamom in a small bowl.",
+                "Place the skillet with chicken drippings over medium-high heat. Stir onion into the skillet",
+                "Pour crushed tomatoes into the skillet. Bring to a boil while scraping the browned bits of food off of the bottom of the skillet with a wooden spoon."
+            ],
+            "country": "India",
+            "rating": 4.8,
+            "preparation_time": 45
+        },
+        {
+            "name": "Tacos",
+            "ingredients": [
+                "1 cup chicken broth",
+                "3 tablespoons taco seasoning mix",
+                "1 pound skinless, boneless chicken breasts"
+            ],
+            "instructions": [
+                "Combine chicken broth and taco seasoning mix in a bowl.",
+                "Place chicken in a slow cooker. Pour chicken broth mixture over chicken.",
+                "Cook on Low for 6 to 8 hours. Shred chicken."
+            ],
+            "country": "Mexico",
+            "rating": 4.3,
+            "preparation_time": 18
+        },
+        {
+            "name": "Pesto Pizza",
+            "ingredients": [
+                "½ cup pesto",
+                "1 ripe tomato",
+                "1 (12 inch) pre-baked pizza crust",
+                "½ cup green bell pepper",
+                "½ small red onion",
+                "1 cup crumbled feta cheese"
+            ],
+            "instructions": [
+                "Preheat the oven to 450 degrees F (230 degrees C).",
+                "Spread pesto on pizza crust. Top with tomato, bell pepper, olives, red onion, artichoke hearts, and feta cheese.",
+                "Bake in the preheated oven until cheese is melted and browned, 8 to 10 minutes."
+            ],
+            "country": "Italy",
+            "rating": 4.6,
+            "preparation_time": 40
+        },
+        {
+            "name": "Pad Thai",
+            "ingredients": [
+                "12 ounces dried rice noodles",
+                "½ cup white sugar",
+                "½ cup distilled white vinegar",
+                "¼ cup fish sauce",
+                "2 boneless, skinless chicken breasts",
+                "4 large eggs"
+            ],
+            "instructions": [
+                "Place rice noodles into a large bowl and cover with several inches of room temperature water",
+                "Whisk 1/2 cup sugar, vinegar, fish sauce, and tamarind paste together in a saucepan over medium heat.",
+                "Heat 1 tablespoon oil in a skillet over medium-high heat. Add chicken; cook and stir until chicken is no longer pink in the center and the juices run clear, 5 to 7 minutes.",
+                "Heat remaining 1 tablespoon oil in a large skillet or wok over medium-high heat.",
+                "Stir in tamarind mixture, 1 1/2 tablespoons sugar, and salt; cook until noodles are tender, 3 to 5 minutes. "
+            ],
+            "country": "Thailand",
+            "rating": 4.4,
+            "preparation_time": 20
+        },
+        {
+            "name": "Spaghetti",
+            "ingredients": [
+                "1 (16 ounce) package spaghetti",
+                "1 pound ground beef",
+                "1 onion, chopped",
+                "2 eggs",
+                "1 jar spaghetti sauce",
+                "5 tablespoons butter"
+            ],
+            "instructions": [
+                "Heat oil in a large pot over medium until shimmering.",
+                "Add wine and reduce heat to medium-low.",
+                "Add tomatoes and chile and cook, stirring to coat, until tomatoes begin to burst",
+                "Meanwhile, cook pasta in a large pot of boiling salted water.",
+                "Using tongs, transfer pasta to pot with sauce.",
+                "Transfer pasta to a platter. Top with more Parmesan."
+            ],
+            "country": "Italy",
+            "rating": 4.8,
+            "preparation_time": 35
+        },
+        {
+            "name": "Kebab",
+            "ingredients": [
+                "2 pounds lean ground lamb",
+                "2 medium onions, finely chopped",
+                "½ cup fresh mint leaves, finely chopped",
+                "1 tablespoon ginger paste",
+                "2 teaspoons ground cumin"
+            ],
+            "instructions": [
+                "Mix ground lamb, onions, mint, cilantro, ginger paste, and chile paste together in a large bowl.",
+                "Divide lamb mixture into 8 equal portions.",
+                "Preheat an outdoor grill for high heat and brush the grate liberally with oil.",
+                "Cook skewers on the preheated grill, turning frequently, until nicely browned on all sides"
+            ],
+            "country": "Turkey",
+            "rating": 4.6,
+            "preparation_time": 80
+        },
+        {
+            "name": "Sushi",
+            "ingredients": [
+                "2 cups Japanese sushi rice",
+                "6 tablespoons rice wine vinegar",
+                "6 sheets nori (dry seaweed)",
+                "8 ounces smoked salmon",
+                "1 cucumber",
+                "1 avocado"
+            ],
+            "instructions": [
+                "Soak rice for 4 hours. Drain rice and cook in a rice cooker with 2 cups of water.",
+                "Immediately after rice is cooked, mix in rice wine vinegar; spread rice on a plate until completely cool.",
+                "Place 1 sheet of seaweed on a bamboo mat; press a thin layer of cool rice on seaweed, leaving at least a 1/2 inch top and bottom edge of the seaweed uncovered.",
+                "Slightly wet the top edge of seaweed; roll up tightly from the bottom to the top edge with the help of the bamboo mat."
+            ],
+            "country": "Japan",
+            "rating": 4.5,
+            "preparation_time": 45
+        },
+        {
+            "name": "Korean BBQ Beef",
+            "ingredients": [
+                "1 pound beef top sirloin",
+                "6 cloves garlic",
+                "2 green onions",
+                "4 tablespoons soy sauce",
+                "1 tablespoon sesame oil"
+            ],
+            "instructions": [
+                "In a large resealable plastic bag, combine beef with garlic, pear, green onions, soy sauce, sugar, sesame oil, rice wine, sesame seeds, fresh ginger, and ground black pepper. Seal, and refrigerate for 2 to 3 hours.",
+                "Preheat the oven's broiler and set the oven rack about 6 inches from the heat source. Brush oil over grill pan. Place beef on pan. Cook, turning to brown evenly, for 3 to 6 minutes, or until done."
+            ],
+            "country": "Korea",
+            "rating": 4.2,
+            "preparation_time": 60
+        }
+    ]
+}
